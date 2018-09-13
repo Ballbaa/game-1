@@ -1,0 +1,27 @@
+﻿{
+	"name": "Space  War",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "com.sts.mygmae",
+	"viewport-width": 768,
+	"viewport-height": 1280,
+	"author": "Thawatchai",
+	"email": "crdsa000@gmail.com",
+	"website": "",
+	"orientations": "any",
+	"c2version": "255",
+	"used-plugins": [
+		"Arr",
+		"Keyboard",
+		"Mouse",
+		"Particles",
+		"Sprite"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"EightDir",
+		"Sin",
+		"bound",
+		"wrap"
+	]
+}
